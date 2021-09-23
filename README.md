@@ -1,0 +1,2 @@
+# Caso_Estudio-2
+Para este segundo caso de estudio se desarrolló una aplicación móvil la cual simula una tienda online, esta aplicación cuenta con varios menús por los cuales puedes navegar. Cabe resaltar que no es una app funcional, por lo tanto, no se pueden realizar compras. La herramienta con la cual se creo la app fue: Andromo, el cual nos permitió meter un proyecto HTML. Está herramienta también nos permite añadir anuncios y así generar ingresos, además de poder buildear nuestro proyecto.
